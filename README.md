@@ -1,7 +1,5 @@
 # Advanced-Prompt-Engineering-Strategies
 
-# Advanced Prompt Engineering Examples
-
 This repository contains a comprehensive collection of prompt engineering techniques, examples, and implementations using various AI models including OpenAI GPT, PaLM 2, and others.
 
 ## Features
