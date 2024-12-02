@@ -90,40 +90,6 @@ OpenAI examples ported to PaLM 2:
 - Code explanation
 - Interview question generation
 
-## 🚦 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/prompt-engineering.git
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Set up API keys:
-```python
-# For Google Colab
-from google.colab import userdata
-api_key = userdata.get('API_KEY')
-
-# For local development
-import os
-api_key = os.getenv('API_KEY')
-```
-
-4. Run examples:
-```python
-python examples/run_examples.py
-```
-
-## 🧪 Testing
-
-Run tests using:
-```bash
-python -m pytest tests/
-```
 
 ## 📊 Examples
 
